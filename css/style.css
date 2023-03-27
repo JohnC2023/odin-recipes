@@ -1,0 +1,13 @@
+img {
+    width: 250px;
+    height: auto;
+}
+body {
+    background-color: #b3f8f2;
+}
+
+.content {
+    max-width: 600px;
+    margin: auto;
+    padding: 10px;
+}
