@@ -10,6 +10,14 @@ body {
     max-width: 600px;
     margin: auto;
     padding: 10px;
-    /*background-image: url(../images/dinner-table.png);*/
-    background-size: contain;
+}
+h1,
+h2,
+h3 {
+    color: blue;
+}
+
+p,
+li {
+    color: blue;
 }
